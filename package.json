@@ -17,7 +17,7 @@
     "mongoose": "^9.2.1",
     "mongoose-currency": "^0.3.0",
     "morgan": "~1.10.1",
-    "multer": "^2.0.2",
+    "multer": "^2.1.0",
     "passport": "^0.6.0",
     "passport-facebook-token": "^3.3.0",
     "passport-jwt": "^4.0.1",
